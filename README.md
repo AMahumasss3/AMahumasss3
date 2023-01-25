@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alessandro Mahumane
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning advanced JavaScript
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on websites and sites
 - 💞️ Also looking to learn more about FrontEnd development 
 - 📫 How to reach me : email: alessandromahumane@gmail.com / LinkedIn: Alessandro Mahumane
