@@ -36,7 +36,7 @@
  
 
 
-#### "If you dont love it you are going to fail "- Steve Jobs
+
 
 <!---
 AMahumasss3/AMahumasss3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
