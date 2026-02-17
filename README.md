@@ -42,13 +42,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AMahumasss3&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMahumasss3&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🤝 Let's Build Something Amazing
