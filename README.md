@@ -1,44 +1,83 @@
-- 👋 Hi, I’m Alessandro Mahumane
-- 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on websites and sites
-- 💞️ Also looking to learn more about FrontEnd development 
-- 📫 How to reach me :
+<h1 align="center">Hi 👋, I'm Alessandro Mahumane</h1>
+<h3 align="center">🚀 Fullstack Software Engineer | Laravel • Node.js • React.js</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alessandromahumane@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+258849551775) [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=dracula)](_mahumasss)
+<p align="center">
+  Building scalable, modern and high-performance web applications.
+</p>
 
+---
 
-![AMahumasss3 GitHub stats](https://github-readme-stats.vercel.app/api?username=AMahumasss3&show_icons=true&theme=dracula)
+## 🧠 About Me
 
- ## The technologies I use :
- <div style: "display: inline_block"> </br>
- <img align= "center" alt="html5" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  
+💻 Fullstack Software Engineer passionate about building robust digital solutions.  
+⚡ Strong experience in backend architecture and modern frontend interfaces.  
+🎯 Focused on clean code, scalability and performance.  
+🌍 Open to international collaborations and remote opportunities.  
 
- </div>
- 
-  <div style: "display: inline_block"> </br>
-<img align= "center" alt="Css" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" 
- </div>
- 
-  <div style: "display: inline_block"> </br>
-<img align= "center" alt="Bootstrap" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" 
- </div>
+---
 
- <div style: "display: inline_block"> </br>
-<img align= "center" alt="JS" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
- </div>
-  <div style: "display: inline_block"> </br>
-<img align= "center" alt="React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
- </div>
- 
- <div style: "display: inline_block"> </br>
-<img align= "center" alt="Figma" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
- </div>
- 
+## 🛠️ Tech Stack
 
+### 🚀 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React.js-111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap" />
+</p>
 
+### 🖥️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs" />
+</p>
 
+### 🎨 Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+</p>
 
-<!---
-AMahumasss3/AMahumasss3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AMahumasss3&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMahumasss3&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+I'm currently open to:
+
+✔️ Fullstack Web Projects  
+✔️ SaaS Development  
+✔️ Startup Collaborations  
+✔️ Remote Software Engineering Roles  
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:alessandromahumane@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://wa.me/258849551775">
+    <img src="https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://instagram.com/_mahumasss">
+    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Turning ideas into scalable digital products.
+</p>
