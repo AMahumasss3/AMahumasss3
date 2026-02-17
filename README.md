@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-💻 Fullstack Software Engineer passionate about building robust digital solutions.  
+💻 Software Engineer passionate about building robust digital solutions.  
 ⚡ Strong experience in backend architecture and modern frontend interfaces.  
 🎯 Focused on clean code, scalability and performance.  
-🌍 Open to international collaborations and remote opportunities.  
+🌍 Open to local and international collaborations and remote opportunities.  
 
 ---
 
@@ -65,15 +65,18 @@ I'm currently open to:
 ## 📫 Contact Me
 
 <p>
+  <a href="https://www.linkedin.com/in/alessandro-mahumane-b090a3235/">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+  
   <a href="mailto:alessandromahumane@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail" />
   </a>
+  
   <a href="https://wa.me/258849551775">
     <img src="https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp" />
   </a>
-  <a href="https://instagram.com/_mahumasss">
-    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram" />
-  </a>
+    
 </p>
 
 ---
