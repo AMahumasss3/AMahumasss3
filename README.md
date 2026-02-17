@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Mahumane</h1>
-<h3 align="center">🚀 Fullstack Software Engineer | Laravel • Node.js • React.js</h3>
+<h3 align="center">🚀 Software Engineer | Laravel • Node.js • React.js</h3>
 
 <p align="center">
   Building scalable, modern and high-performance web applications.
